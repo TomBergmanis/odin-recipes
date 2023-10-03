@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: cornsilk;
+}
+#main-heading {
+  text-align: center;
+  font-size: 50px;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 5px;
+}
+#subheading {
+  border: solid black;
+  padding: 5px;
+  margin: 5px;
+}
+.subsubheading {
+  padding: 5px;
+  padding-left: 35px;
+}
+.ingredients {
+  border: solid black;
+  margin-left: 250px;
+  margin-right: 275px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+}
+p {
+  text-align: center;
+  padding: 0px;
+  margin: 5px;
+}
+.instructions {
+  border: solid black;
+  padding-bottom: 8px;
+  padding-top: 8px;
+}
+
+.lasagna-img {
+  text-align: center;
+  width: 700px;
+  height: 450px;
+  margin-left: 80px;
+  border-radius: 5%;
+}
+
+.pizza-img {
+  text-align: center;
+  width: 500px;
+  height: 400px;
+  margin-left: 80px;
+  border-radius: 5%;
+}
+
+.spaghetti-img {
+  text-align: center;
+  width: 500px;
+  height: 400px;
+  margin-left: 80px;
+  border-radius: 5%;
+}
